@@ -1,7 +1,7 @@
 # Publications
 A list of my publications.
 
-##2022
+## 2022
 - *Escola Montessoriana de Taipa de Pilão* Carolina Salzano Rocha, Maria Alice Corrêa de Oliveira, Olavo Avalone Neto. **Terra Brasil 2022 - Congresso de Arquitetura e Construção com Terra no Brasil** [Conference Poster](https://redeterrabrasil.net.br/congressos/)
 
 ## 2021
@@ -36,7 +36,7 @@ A list of my publications.
 
 - *Aplicação do Método de Apresentação Pecha-Kucha: metodologia SCAMPER* 35 Jornada Acadêmica Integrada - UFSM
 - *HBIM de Cachoeira do Sul: documentação do patrimônio histórico através da modelagem da informação sobre nuvem de pontos* 35 Jornada Acadêmica Integrada - UFSM
-Modelos Digitais do Patrimônio Edificado de Cachoeira do Sul: processo de criação utilizando softwares open-source* 35 Jornada Acadêmica Integrada - UFSM
+- *Modelos Digitais do Patrimônio Edificado de Cachoeira do Sul: processo de criação utilizando softwares open-source* 35 Jornada Acadêmica Integrada - UFSM
 
 ## 2019
 
