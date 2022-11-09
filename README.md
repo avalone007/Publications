@@ -40,14 +40,14 @@ A list of my publications.
 ## 2020 
 - *CAPTURING THE ENVIRONMENT: using photogammetry tp register the built environment for simulation* Olavo Avalone Neto, Marianne Costa Avalone. **Congreso SIGraDi 2020**. [Conference Paper](http://dx.doi.org/10.5151/sigradi2020-58)
 
--*Capacitação em Formit à Distância*. Mylene Pacini Costa, Henrique Callegaro Soares, Laline Cenci, Júlio Pires, Marianne Costa Avalone, Olavo Avalone Neto. **VII Congresso de Extensão e Cultura - 6a Semana Integrada UFPEL 2020** [Resumo Expandido]().
--*Composição Automatizada de Paredes: construção digital e execução por mini-braço robótico*. Mylene Pacini Costa, Amanda Schwertner, Soares, Laline Cenci, Olavo Avalone Neto, Júlio Pires. **IV Congresso de Inovação Técnológica - 6a Semana Integrada UFPEL 2020** [Resumo Expandido]().
+- *Capacitação em Formit à Distância*. Mylene Pacini Costa, Henrique Callegaro Soares, Laline Cenci, Júlio Pires, Marianne Costa Avalone, Olavo Avalone Neto. **VII Congresso de Extensão e Cultura - 6a Semana Integrada UFPEL 2020** [Resumo Expandido]().
+- *Composição Automatizada de Paredes: construção digital e execução por mini-braço robótico*. Mylene Pacini Costa, Amanda Schwertner, Soares, Laline Cenci, Olavo Avalone Neto, Júlio Pires. **IV Congresso de Inovação Técnológica - 6a Semana Integrada UFPEL 2020** [Resumo Expandido]().
 - *Captura de Realidade com Fotogrametria: comparando aplicativos na digitalização do patrimônio edificado*. Gulitt Rossi Grafolin, Marianne Costa Avalone, Laline E. Cenci, Júlio Pires, Olavo Avalone Neto. **XXIX Congresso de Iniciação Científica - 6a Semana Integrada UFPEL 2020**. [Resumo Expandido]().
-- *Realidade Aumentada: criação de biblioteca digital de blocos cerâmicos*. Stéphane Soares Vieira, Henrique Soares Callegaro, Júlio Cesar Pinheiro Pires, Olavo Avalone Neto, Laline Elisângela Cenci.**XXIX Congresso de Iniciação Científica - 6a Semana Integrada UFPEL 2020**. [Resumo Expandido]().
+- *Realidade Aumentada: criação de biblioteca digital de blocos cerâmicos*. Stéphane Soares Vieira, Henrique Soares Callegaro, Júlio Cesar Pinheiro Pires, Olavo Avalone Neto, Laline Elisângela Cenci. **XXIX Congresso de Iniciação Científica - 6a Semana Integrada UFPEL 2020**. [Resumo Expandido]().
 
-- *Aplicação do Método de Apresentação Pecha-Kucha: metodologia SCAMPER* **35 Jornada Acadêmica Integrada - UFSM**
-- *HBIM de Cachoeira do Sul: documentação do patrimônio histórico através da modelagem da informação sobre nuvem de pontos*. Louise S. Pinheiro, Juliana M. Z. Marchesan, Olavo Avalone Neto. **35 Jornada Acadêmica Integrada - UFSM** [Resumo]
-- *Modelos Digitais do Patrimônio Edificado de Cachoeira do Sul: processo de criação utilizando softwares open-source*. Juliana M. Z. Marchesan, Louise S. Pinheiro, Olavo Avalone Neto. **35 Jornada Acadêmica Integrada - UFSM** [Resumo]
+- *Aplicação do Método de Apresentação Pecha-Kucha: metodologia SCAMPER* **35 Jornada Acadêmica Integrada - UFSM** [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *HBIM de Cachoeira do Sul: documentação do patrimônio histórico através da modelagem da informação sobre nuvem de pontos*. Louise S. Pinheiro, Juliana M. Z. Marchesan, Olavo Avalone Neto. **35 Jornada Acadêmica Integrada - UFSM** [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Modelos Digitais do Patrimônio Edificado de Cachoeira do Sul: processo de criação utilizando softwares open-source*. Juliana M. Z. Marchesan, Louise S. Pinheiro, Olavo Avalone Neto. **35 Jornada Acadêmica Integrada - UFSM** [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 
 ## 2019
 - *Uso de referenciais arquitetônicos no ensino do BIM*. Olavo Avalone Neto. **II ENCONTRO NACIONAL SOBRE O ENSINO DE BIM**. [Conference Poster](https://eventos.antac.org.br/index.php/enebim/article/view/228).
