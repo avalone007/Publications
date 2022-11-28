@@ -2,6 +2,7 @@
 A list of my publications.
 
 ## 2022
+- *Permeabilidade visual entre o espaço edificado e o espaço público: revisão sistemática da literatura*. Carlos Filipe da Silva Pontes, Taynan Saquet, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](https://doi.org/10.35522/eed.v30i3.1522).
 - *Escola Montessoriana de Taipa de Pilão* Carolina Salzano Rocha, Maria Alice Corrêa de Oliveira, Olavo Avalone Neto. **Terra Brasil 2022 - Congresso de Arquitetura e Construção com Terra no Brasil** [Conference Poster](https://redeterrabrasil.net.br/congressos/)
 
 ## 2021
