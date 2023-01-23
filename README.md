@@ -3,7 +3,17 @@ A list of my publications.
 
 ## 2022
 - *Permeabilidade visual entre o espaço edificado e o espaço público: revisão sistemática da literatura*. Carlos Filipe da Silva Pontes, Taynan Saquet, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](https://doi.org/10.35522/eed.v30i3.1522).
-- *Escola Montessoriana de Taipa de Pilão* Carolina Salzano Rocha, Maria Alice Corrêa de Oliveira, Olavo Avalone Neto. **Terra Brasil 2022 - Congresso de Arquitetura e Construção com Terra no Brasil** [Conference Poster](https://redeterrabrasil.net.br/congressos/)
+- *Escola Montessoriana de Taipa de Pilão* Carolina Salzano Rocha, Maria Alice Corrêa de Oliveira, Olavo Avalone Neto. **Terra Brasil 2022 - Congresso de Arquitetura e Construção com Terra no Brasil**. [Conference Poster](https://redeterrabrasil.net.br/congressos/)
+
+- *A Utilização do Software Dynamo para a Modelagem de Formas*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Concurso de Idéias para o Edifício do CAU-UFSM-CS, edição 2021.1*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Dificuldades, Desafios e Sensibilizações no Projeto de um Equipamento Sociocultural à Distância*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Efeito da Percepção de Interfaces Térreas em Usuários de Espaços de Uso Público*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Efeitos da Cor e Níveis de Luminância em Espaços de Aprendizagem*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Equipamento Sociocultural: a experiência de projetar vinculada ao retorno do ensino presencial*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Percepção dos Usuários no Parque Itaimbé acerca dos Assentos Públicos Existentes*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Projeto Institucional - Sede para o CAU-CS*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Proposta de Edifício para o Curso de Arquitetura e Urbanismo para a Universidade Federal de Santa Maria no Campus de Cachoeira do Sul*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 
 ## 2021
 - *Tree Cover Ratio Effects on Users' Perceptions, Impressions and Suitability Judgment for Different Activities in Privately Owned Public Spaces*. Olavo Avalone Neto, Jun Munakata. **DESIGN E TECNOLOGIA**. [Paper](https://doi.org/10.23972/det2021iss23pp72-81).
