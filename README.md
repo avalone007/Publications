@@ -3,7 +3,8 @@ A list of my publications.
 
 ## 2023
 - *Infection Risk Self-Perception and the use of Central Squares in Santa Maria City during the Omicron Variant period of dissemination*. Felipe Mulazzani Melo, Olavo Avalone Neto. **Revista Nacional de Gerenciamento de Cidades**. [Paper](https://doi.org/10.17271/2318847211832023).
-- *Uso das praças públicas de Santa Maria durante a pandemia de Covid-19: análise do período de disseminação da variante Ômicron*.  Felipe Mulazzani Melo. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2023. [Dissertação](http://repositorio.ufsm.br/handle/1/29139)
+- *Efeito do Desenho dos Bancos na Permanência dos Usuários em Espaços de Uso Público*. **Taynan Saquet**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2023. [Dissertação]()
+- *Uso das praças públicas de Santa Maria durante a pandemia de Covid-19: análise do período de disseminação da variante Ômicron*.  **Felipe Mulazzani Melo**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2023. [Dissertação](http://repositorio.ufsm.br/handle/1/29139)
   
 ## 2022
 - *Manual de Plantio e Manejo para o Campus de Palmeira das Missões*. Olavo Avalone Neto, Verônica Garcia Donoso, Viviane Dal-Souto Frescura, Sélia Maria Wontroba, Jamile Poliana dos Santos Marques, Karoline Falkemback de Almeida e Júlia de Souza Braga. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2022. [Livro Eletrônico](http://repositorio.ufsm.br/handle/1/28287).
