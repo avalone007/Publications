@@ -1,5 +1,5 @@
 # Publications
-A list of my publications.
+A list of my publications and work I have advised.
 
 ## 2023
 - *Infection Risk Self-Perception and the use of Central Squares in Santa Maria City during the Omicron Variant period of dissemination*. Felipe Mulazzani Melo, Olavo Avalone Neto. **Revista Nacional de Gerenciamento de Cidades**. [Paper](https://doi.org/10.17271/2318847211832023).
