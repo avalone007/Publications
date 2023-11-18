@@ -5,6 +5,25 @@ A list of my publications and work I have advised.
 - *Infection Risk Self-Perception and the use of Central Squares in Santa Maria City during the Omicron Variant period of dissemination*. Felipe Mulazzani Melo, Olavo Avalone Neto. **Revista Nacional de Gerenciamento de Cidades**. [Paper](https://doi.org/10.17271/2318847211832023).
 - *Efeito do Desenho dos Bancos na Permanência dos Usuários em Espaços de Uso Público*. **Taynan Saquet**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2023. [Dissertação](https://repositorio.ufsm.br/handle/1/29650)
 - *Uso das praças públicas de Santa Maria durante a pandemia de Covid-19: análise do período de disseminação da variante Ômicron*.  **Felipe Mulazzani Melo**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2023. [Dissertação](http://repositorio.ufsm.br/handle/1/29139)
+
+- *A Utilização do Declive como Potencializador e Gerador de um Conceito*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Aquarela e sua expansão no prédio do CAU-UFSM-CS*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Assessoria Técnica à Associação da Comunidade Vila Lobos*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Avaliação da percepção do espaço público através de cenários virtuais*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Centro de Integração e Cultura para Cachoeira do Sul*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Centro Educacional Aurélio Porto - experiência de projeto com modelagem BIM*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Centro Sociocultural Ohana - espaço público para as famílias de Cachoeira do Sul*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Compreendendo o Espaço - maquete física como forma de estudo*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Escola Sinergia e sua Composição Arquitetônica*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Escola Walter Jobim - a experiência do Projeto V em 2023-1*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Espaço Viver - o centro sociocultural projetado para o público idoso e suas famílias*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Experimento com cenários virtuais para análise dos efeitos das fachadas na percepção dos usuários*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Explorando as Conexões Emocionais e Experienciais Através dos Cinco Sentidos Humanos*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Introdução à realidade virtual com a Unreal Engine*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *O ser dinâmico e a capacidade de encarar desafios*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Selenitá - Centro Educacional em Cachoeira do Sul*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Teste de Habilidade Espacial e Realidade Aumentada*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Workshop: Realidade Aumentada para Arquitetura*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
   
 ## 2022
 - *Manual de Plantio e Manejo para o Campus de Palmeira das Missões*. Olavo Avalone Neto, Verônica Garcia Donoso, Viviane Dal-Souto Frescura, Sélia Maria Wontroba, Jamile Poliana dos Santos Marques, Karoline Falkemback de Almeida e Júlia de Souza Braga. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2022. [Livro Eletrônico](http://repositorio.ufsm.br/handle/1/28287).
