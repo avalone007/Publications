@@ -1,10 +1,18 @@
 # Publications
 A list of my publications and work I have advised.
 
+## 2024
+
 ## 2023
+-*Desenho Digital: Modelagem algorítmica de geometrias e comportamentos*. Júlio César Pinheiro Pires, Laline Elisângela Cenci, Olavo Avalone Neto. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2023. [Livro Eletrônico](https://repositorio.ufsm.br/handle/1/30367).
 - *Infection Risk Self-Perception and the use of Central Squares in Santa Maria City during the Omicron Variant period of dissemination*. Felipe Mulazzani Melo, Olavo Avalone Neto. **Revista Nacional de Gerenciamento de Cidades**. [Paper](https://doi.org/10.17271/2318847211832023).
 - *Efeito do Desenho dos Bancos na Permanência dos Usuários em Espaços de Uso Público*. **Taynan Saquet**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2023. [Dissertação](https://repositorio.ufsm.br/handle/1/29650)
 - *Uso das praças públicas de Santa Maria durante a pandemia de Covid-19: análise do período de disseminação da variante Ômicron*.  **Felipe Mulazzani Melo**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2023. [Dissertação](http://repositorio.ufsm.br/handle/1/29139)
+- *Seleção de espécies medicinais para composição paisagística no campus da UFSM de Palmeira das Missões, RS*. **Sélia Maria Wontroba**. Universidade Federal de Santa Maria - Campus de Palmeira das Missões, Curso de Ciências Biológicas, RS, 2023. [Trabalho de Conclusão de Curso.](https://repositorio.ufsm.br/handle/1/30129)
+- *CCAO - Centro Cultural de Artes e Ofícios*. **Jamile Poliana dos Santos Marques**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2023. [Trabalho de Conclusão de Curso.]()
+- *Arquitetura Modular Aplicada a um Centro Gastronômico em Cachoeira do Sul*. **Gabrielle Melo Holzschuh**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2023. [Trabalho de Conclusão de Curso.]()
+- *CIDADE SAUDÁVEL: requalificação urbana como estratégia para a qualidade de vida na Área Cura, Sumaré, SP*. **Vanessa Virgínia Silva**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2023. [Trabalho de Conclusão de Curso.]()
+- *Educa FONS: Metodologias Ativas na Construção de Espaços parao Ensino Público Infanto Juvenil em Cachoeira do Sul, RS*. **Juliana Maria Zancan Marchesan**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2023. [Trabalho de Conclusão de Curso.]()
 
 - *A Utilização do Declive como Potencializador e Gerador de um Conceito*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 - *Aquarela e sua expansão no prédio do CAU-UFSM-CS*. 38ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
@@ -29,6 +37,8 @@ A list of my publications and work I have advised.
 - *Manual de Plantio e Manejo para o Campus de Palmeira das Missões*. Olavo Avalone Neto, Verônica Garcia Donoso, Viviane Dal-Souto Frescura, Sélia Maria Wontroba, Jamile Poliana dos Santos Marques, Karoline Falkemback de Almeida e Júlia de Souza Braga. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2022. [Livro Eletrônico](http://repositorio.ufsm.br/handle/1/28287).
 - *Permeabilidade visual entre o espaço edificado e o espaço público: revisão sistemática da literatura*. Carlos Filipe da Silva Pontes, Taynan Saquet, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](https://doi.org/10.35522/eed.v30i3.1522).
 - *Escola Montessoriana de Taipa de Pilão* Carolina Salzano Rocha, Maria Alice Corrêa de Oliveira, Olavo Avalone Neto. **Terra Brasil 2022 - Congresso de Arquitetura e Construção com Terra no Brasil**. [Conference Poster](https://redeterrabrasil.net.br/congressos/)
+- *Novo olhar para espaços na Educação: Proposta de escola para ensino fundamental em Santa Maria - RS*. **Thales Severo Alves**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2022. [Trabalho de Conclusão de Curso.](https://repositorio.ufsm.br/handle/1/27957)
+- *Centro Dia do Idoso: um espaço para o envelhecimento ativo em Cachoeira do Sul - RS*. **Larissa Rithiéli Ramos**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2022. [Trabalho de Conclusão de Curso.](https://repositorio.ufsm.br/handle/1/27998)
 
 - *A Utilização do Software Dynamo para a Modelagem de Formas*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 - *Concurso de Idéias para o Edifício do CAU-UFSM-CS, edição 2021.1*. 37ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
