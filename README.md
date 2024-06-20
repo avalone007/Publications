@@ -2,6 +2,7 @@
 A list of my publications and work I have advised.
 
 ## 2024
+- *Aprimorando a experiência do usuário em espaços públicos: impacto do desenho dos bancos na permanência*. Taynan Saquet, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](http://dx.doi.org/10.35522/eed.v32i1.1886)
 
 ## 2023
 - *Desenho Digital: Modelagem algorítmica de geometrias e comportamentos*. **Júlio César Pinheiro Pires**, Laline Elisângela Cenci, Olavo Avalone Neto. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2023. [Livro Eletrônico](https://repositorio.ufsm.br/handle/1/30367).
