@@ -2,6 +2,7 @@
 A list of my publications and work I have advised.
 
 ## 2024
+- *O prédio da boate kiss está de pé: o memorial da UFSM*. Olavo Avalone Neto, Letícia Steyding Mazuim, Carlos Filipe da Silva Pontes, Daisy Jung. **Diário de Santa Maria**, Plural, 8 de Agosto de 2024. [Artigo]. 
 - *Aprimorando a experiência do usuário em espaços públicos: impacto do desenho dos bancos na permanência*. Taynan Saquet, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](http://dx.doi.org/10.35522/eed.v32i1.1886)
 
 ## 2023
