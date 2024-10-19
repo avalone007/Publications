@@ -2,6 +2,8 @@
 A list of my publications and work I have advised.
 
 ## 2024
+- *Estudo Espacial com Realidade Aumentada em Arquitetura: uma revisão sistemática da literatura*. João Gabriel Minussi, Olavo Avalone Neto. ** Educação Gráfica**. [Paper](https://www.educacaografica.inf.br/artigos/estudo-espacial-com-realidade-aumentada-em-arquitetura-uma-revisao-sistematica-da-literatura-spatial-study-with-augmented-reality-in-architecture-a-systematic-literature-review).
+
 - *O prédio da boate kiss está de pé: o memorial da UFSM*. Olavo Avalone Neto, Letícia Steyding Mazuim, Carlos Filipe da Silva Pontes, Daisy Jung. **Diário de Santa Maria**, Plural, 8 de Agosto de 2024. [Artigo]. 
 - *Aprimorando a experiência do usuário em espaços públicos: impacto do desenho dos bancos na permanência*. Taynan Saquet, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](http://dx.doi.org/10.35522/eed.v32i1.1886)
 
