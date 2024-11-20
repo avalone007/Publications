@@ -2,7 +2,7 @@
 A list of my publications and work I have advised.
 
 ## 2024
-- *3D Virtual Environment versus 360 Panoramic Images: comparison of techniques for evaluating urban environments*. Carlos Filipe Pontes, Olavo Avalone Neto. **Accelerated_Landscapes - XXVIII International Conference of the Iberoamerican Society of Digital Graphics**. [Conference Paper](https://drive.google.com/file/d/1B84w1Y_Z5rb9ETDnpt16TNFf1N6TiMlY/view?usp=sharing).
+- *3D Virtual Environment versus 360 Panoramic Images: comparison of techniques for evaluating urban environments*. Carlos Filipe Pontes, Olavo Avalone Neto. **Biodigital Intelligent Systems - XXVIII International Conference of the Iberoamerican Society of Digital Graphics**. [Conference Paper](https://drive.google.com/file/d/1B84w1Y_Z5rb9ETDnpt16TNFf1N6TiMlY/view?usp=sharing).
 
 - *Estudo Espacial com Realidade Aumentada em Arquitetura: uma revisão sistemática da literatura*. João Gabriel Minussi, Olavo Avalone Neto. **Educação Gráfica**. [Paper](https://www.educacaografica.inf.br/artigos/estudo-espacial-com-realidade-aumentada-em-arquitetura-uma-revisao-sistematica-da-literatura-spatial-study-with-augmented-reality-in-architecture-a-systematic-literature-review).
 
