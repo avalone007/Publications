@@ -9,6 +9,22 @@ A list of my publications and work I have advised.
 - *O prédio da boate kiss está de pé: o memorial da UFSM*. Olavo Avalone Neto, Letícia Steyding Mazuim, Carlos Filipe da Silva Pontes, Daisy Jung. **Diário de Santa Maria**, Plural, 8 de Agosto de 2024. [Artigo]. 
 - *Aprimorando a experiência do usuário em espaços públicos: impacto do desenho dos bancos na permanência*. Taynan Saquet, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](http://dx.doi.org/10.35522/eed.v32i1.1886)
 
+- *Revirada Centro Sociocultural: Requalificação de um edifício inacabado no centro urbano de Uruguaiana-RS*. **Gulitt Rossi Grafolin**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
+- *Edifício de Coliving em Cachoeira do Sul*. **Henrique Callegaro Soares**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
+- *Parque Urbano: Uma proposta de conexão para o parque Energia das Águas ao município de Salto do Jacuí/RS*. **Mylene Pacini Costa**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
+- *Vila Santiago: um espaço para o envelhecimento digno de pessoas com alzheimer em Tupanciretã-RS*. **Elenara Santiago Callegaro**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
+- *Requalificação Da Orla Da Praia Do Siqueira Em Cabo Frio, RJ*. **Tatiana dos Reis da Silva Tavares**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
+- *Às margens do Ribeiro: Centro de educação socioambiental como estratégia arquitetônica de resiliência às enchentes em Barra do Ribeiro-RS*. **Yasmin Costa Pinzon**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
+
+- *Efetividade da Realidade Virtual na Avaliação de Arquitetura de Interiores Residenciais*. 39ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Mapeamento do Emprego de Inteligência Artificial na Criação de Alternativas de Projetos Arquitetônicos no Estado do Rio Grande do Sul*. 39ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Tecnologias para Avaliação de Espaços Urbanos: modelos 3D ou Imagens Panorâmicas 360?*. 39ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Projeto Urbano e da Paisagem para a Praça Altamir Antônio Ceratti*. 39ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Centro Educacional em Cachoeira do Sul: integração entre Arquitetura e Escola*. 39ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Desenvolvimento de Projeto Paisagístico: a conexão entre comunidade e espaço urbano*. 39ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Concepção e Proposta de Equipamento Sociocultural: soluções formais e integração plástica com o contexto físico e ambiental*. 39ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+
+
 ## 2023
 - *Desenho Digital: Modelagem algorítmica de geometrias e comportamentos*. **Júlio César Pinheiro Pires**, Laline Elisângela Cenci, Olavo Avalone Neto. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2023. [Livro Eletrônico](https://repositorio.ufsm.br/handle/1/30367).
 
