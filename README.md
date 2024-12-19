@@ -10,9 +10,9 @@ A list of my publications and work I have advised.
 - *Aprimorando a experiência do usuário em espaços públicos: impacto do desenho dos bancos na permanência*. Taynan Saquet, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](http://dx.doi.org/10.35522/eed.v32i1.1886)
 
 - *Revirada Centro Sociocultural: Requalificação de um edifício inacabado no centro urbano de Uruguaiana-RS*. **Gulitt Rossi Grafolin**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
+- - *Vila Santiago: um espaço para o envelhecimento digno de pessoas com alzheimer em Tupanciretã-RS*. **Elenara Santiago Callegaro**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
 - *Edifício de Coliving em Cachoeira do Sul*. **Henrique Callegaro Soares**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
 - *Parque Urbano: Uma proposta de conexão para o parque Energia das Águas ao município de Salto do Jacuí/RS*. **Mylene Pacini Costa**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
-- *Vila Santiago: um espaço para o envelhecimento digno de pessoas com alzheimer em Tupanciretã-RS*. **Elenara Santiago Callegaro**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
 - *Requalificação Da Orla Da Praia Do Siqueira Em Cabo Frio, RJ*. **Tatiana dos Reis da Silva Tavares**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
 - *Às margens do Ribeiro: Centro de educação socioambiental como estratégia arquitetônica de resiliência às enchentes em Barra do Ribeiro-RS*. **Yasmin Costa Pinzon**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2024. [Trabalho de Conclusão de Curso.]()
 
