@@ -1,6 +1,9 @@
 # Publications
 A list of my publications and work I have advised.
 
+## 2025
+-*Caça ao tesouro histórico de Cachoeira do Sul*. **Olavo Avalone Neto**, Josiane Patrícia Talamini. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2025. [Livro Eletrônico](https://repositorio.ufsm.br/handle/1/35736).
+
 ## 2024
 - *3D Virtual Environment versus 360 Panoramic Images: comparison of techniques for evaluating urban environments*. Carlos Filipe Pontes, Olavo Avalone Neto. **Biodigital Intelligent Systems - XXVIII International Conference of the Iberoamerican Society of Digital Graphics**. [Conference Paper](https://drive.google.com/file/d/1B84w1Y_Z5rb9ETDnpt16TNFf1N6TiMlY/view?usp=sharing).
 
