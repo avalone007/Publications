@@ -2,6 +2,7 @@
 A list of my publications and work I have advised.
 
 ## 2025
+- *Diferenças e similaridades na percepção de interfaces térreas por leigos e especialistas*.Carlos Filipe da Silva Pontes, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](https://doi.org/10.35522/eed.v33i2.2190)
 - *Caça ao tesouro histórico de Cachoeira do Sul*. **Olavo Avalone Neto**, Josiane Patrícia Talamini. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2025. [Livro Eletrônico](https://repositorio.ufsm.br/handle/1/35736).
 
 ## 2024
