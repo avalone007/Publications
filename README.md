@@ -5,6 +5,19 @@ A list of my publications and work I have advised.
 - *Diferenças e similaridades na percepção de interfaces térreas por leigos e especialistas*. Carlos Filipe da Silva Pontes, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](https://estudosemdesign.emnuvens.com.br/design/article/view/2190)
 - *Caça ao tesouro histórico de Cachoeira do Sul*. **Olavo Avalone Neto**, Josiane Patrícia Talamini. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2025. [Livro Eletrônico](https://repositorio.ufsm.br/handle/1/35736).
 
+
+- *A Experiência da Criação da Caça ao Tesouro Histórico de Cachoeira do Sul*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Canto do Encanto: do croqui à maquete na exploração da composição espacial paisagística*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Costura Urbana: integração de usos e desenvolvimento da zona esportiva na praça José Bonifácio*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Transmutação da Imagem: modelagem 3D a partir de fotogrametria e softwares auxiliares*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Emprego da Maquete Física na Concepção Projetual e Compreensão do Edifício no Início do Curso*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Parque Recanto Viva: Vivência acadêmica em Projeto Urbano e da Paisagem I*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Paisagismo Sensorial: estratégias da vegetação como estruturadora de usos e ambiências na praça José Bonifácio*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *A Maquete de Estudos como Instrumento de Compreensão e Auxílio na Concepção Espacial*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Paisagem em Camadas: experiência de projeto de parque em projeto urbano e da paisagem I*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Desafios na Representação Cromática do Ambiente Urbano de Santa Maria - RS*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)]
+- 
+
 ## 2024
 - *3D Virtual Environment versus 360 Panoramic Images: comparison of techniques for evaluating urban environments*. Carlos Filipe Pontes, Olavo Avalone Neto. **Biodigital Intelligent Systems - XXVIII International Conference of the Iberoamerican Society of Digital Graphics**. [Conference Paper](https://drive.google.com/file/d/1B84w1Y_Z5rb9ETDnpt16TNFf1N6TiMlY/view?usp=sharing).
 
