@@ -18,9 +18,8 @@ A list of my publications and work I have advised.
 - *A Maquete de Estudos como Instrumento de Compreensão e Auxílio na Concepção Espacial*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 - *Paisagem em Camadas: experiência de projeto de parque em projeto urbano e da paisagem I*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 - *Desafios na Representação Cromática do Ambiente Urbano de Santa Maria - RS*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)]
-- *IA GENERATIVA NO ENSINO DE ARQUITETURA: POTENCIAIS E LIMITES NO ESTÍMULO À CRIATIVIDADE ESTUDANTIL*.  40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)]
-- 
-- 
+- *IA Generativa no Ensino de Arquitetura: potenciais e limitesno estimulo à criatividade estudantil*.  40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)]
+
 
 ## 2024
 - *3D Virtual Environment versus 360 Panoramic Images: comparison of techniques for evaluating urban environments*. Carlos Filipe Pontes, Olavo Avalone Neto. **Biodigital Intelligent Systems - XXVIII International Conference of the Iberoamerican Society of Digital Graphics**. [Conference Paper](https://drive.google.com/file/d/1B84w1Y_Z5rb9ETDnpt16TNFf1N6TiMlY/view?usp=sharing).
