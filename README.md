@@ -12,12 +12,14 @@ A list of my publications and work I have advised.
 - *Canto do Encanto: do croqui à maquete na exploração da composição espacial paisagística*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 - *Costura Urbana: integração de usos e desenvolvimento da zona esportiva na praça José Bonifácio*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 - *Transmutação da Imagem: modelagem 3D a partir de fotogrametria e softwares auxiliares*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
-- *Emprego da Maquete Física na Concepção Projetual e Compreensão do Edifício no Início do Curso*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
-- *Parque Recanto Viva: Vivência acadêmica em Projeto Urbano e da Paisagem I*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
-- *Paisagismo Sensorial: estratégias da vegetação como estruturadora de usos e ambiências na praça José Bonifácio*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
-- *A Maquete de Estudos como Instrumento de Compreensão e Auxílio na Concepção Espacial*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
-- *Paisagem em Camadas: experiência de projeto de parque em projeto urbano e da paisagem I*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
-- *Desafios na Representação Cromática do Ambiente Urbano de Santa Maria - RS*.40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)]
+- *Emprego da Maquete Física na Concepção Projetual e Compreensão do Edifício no Início do Curso*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Parque Recanto Viva: Vivência acadêmica em Projeto Urbano e da Paisagem I*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Paisagismo Sensorial: estratégias da vegetação como estruturadora de usos e ambiências na praça José Bonifácio*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *A Maquete de Estudos como Instrumento de Compreensão e Auxílio na Concepção Espacial*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Paisagem em Camadas: experiência de projeto de parque em projeto urbano e da paisagem I*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
+- *Desafios na Representação Cromática do Ambiente Urbano de Santa Maria - RS*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)]
+- *IA GENERATIVA NO ENSINO DE ARQUITETURA: POTENCIAIS E LIMITES NO ESTÍMULO À CRIATIVIDADE ESTUDANTIL*.  40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)]
+- 
 - 
 
 ## 2024
