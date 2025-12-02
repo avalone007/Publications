@@ -135,7 +135,7 @@ A list of my publications and work I have advised.
 - *Vigor: o Conjunto de Saúde Física e Mental de Qualidade Aplicadas a um Equipamento Sociocultural Voltado ao Bem Estar* 36ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 
 ## 2020 
-- *CAPTURING THE ENVIRONMENT: using photogammetry tp register the built environment for simulation* Olavo Avalone Neto, Marianne Costa Avalone. **Congreso SIGraDi 2020**. [Conference Paper](http://dx.doi.org/10.5151/sigradi2020-58)
+- *CAPTURING THE ENVIRONMENT: using photogammetry tp register the built environment for simulation* Olavo Avalone Neto, Marianne Costa Avalone. **XXIV International Conference of the Iberoamerican Society of Digital Graphics**. [Conference Paper](http://dx.doi.org/10.5151/sigradi2020-58)
 
 - *Capacitação em Formit à Distância*. Mylene Pacini Costa, Henrique Callegaro Soares, Laline Cenci, Júlio Pires, Marianne Costa Avalone, Olavo Avalone Neto. **VII Congresso de Extensão e Cultura - 6a Semana Integrada UFPEL 2020** [Resumo Expandido]().
 - *Composição Automatizada de Paredes: construção digital e execução por mini-braço robótico*. Mylene Pacini Costa, Amanda Schwertner, Soares, Laline Cenci, Olavo Avalone Neto, Júlio Pires. **IV Congresso de Inovação Técnológica - 6a Semana Integrada UFPEL 2020** [Resumo Expandido]().
