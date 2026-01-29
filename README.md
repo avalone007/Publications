@@ -1,10 +1,13 @@
 # Publications
 A list of my publications and work I have advised.
+##2026
 
 ## 2025
+- *Eficácia das ferramentas de realidade virtual na avaliação de espaços interiores residenciais*. **Maurício Martini**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2025. [Dissertação](https://repositorio.ufsm.br/handle/1/37390)
+
 - *Diferenças e similaridades na percepção de interfaces térreas por leigos e especialistas*. Carlos Filipe da Silva Pontes, Olavo Avalone Neto. **ESTUDOS EM DESIGN (ONLINE)**. [Paper](https://estudosemdesign.emnuvens.com.br/design/article/view/2190)
 - *Caça ao tesouro histórico de Cachoeira do Sul*. **Olavo Avalone Neto**, Josiane Patrícia Talamini. 1a ed. Cachoeira do Sul, RS: UFSM-CS, 2025. [Livro Eletrônico](https://repositorio.ufsm.br/handle/1/35736).
-- *Design, Text and Image: exploring the role of text-to-image in architectural pedagogy*. Gabriel Mustafa Ourique, Olavo Avalone Neto. **Meta Responsive Approaches - XXIX International Conference of the Iberoamerican Society of Digital Graphics**. [Conference Paper]().
+- *Design, Text and Image: exploring the role of text-to-image in architectural pedagogy*. Gabriel Mustafa Ourique, Olavo Avalone Neto. **Meta Responsive Approaches - XXIX International Conference of the Iberoamerican Society of Digital Graphics**. [Conference Paper](https://papers.cumincad.org/cgi-bin/works/paper/sigradi2025_96).
 - *Método da Avaliação por Legendas - MAL*. Olavo Avalone Neto. **12 Projetar - Reexistir no Mundo Contemporâneo**. [Conference Paper](http://dx.doi.org/10.29327/9786527219705.1330654).
 - *Panorama Regional sobre o Uso de Ferramentas Digitais em Escritórios de Arquitetura*. Maurício Martini, João Gabriel Minussi, Olavo Avalone Neto. **12 Projetar - Reexistir no Mundo Contemporâneo**. [Conference Paper](http://dx.doi.org/10.29327/9786527219705.1138517).
 
