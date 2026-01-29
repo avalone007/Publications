@@ -1,6 +1,7 @@
 # Publications
 A list of my publications and work I have advised.
-##2026
+
+## 2026
 
 ## 2025
 - *Eficácia das ferramentas de realidade virtual na avaliação de espaços interiores residenciais*. **Maurício Martini**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2025. [Dissertação](https://repositorio.ufsm.br/handle/1/37390)
