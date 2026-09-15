@@ -2,6 +2,8 @@
 A list of my publications and work I have advised.
 
 ## 2026
+- *Inteligência artificial generativa de imagens no ensino de arquitetura: impactos na criatividade e no processo de projeto*. **Gabriel Mustafa Ourique**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2026. [Dissertação](https://repositorio.ufsm.br/handle/1/38530)
+
 - *Avaliação do potencial geoturístico do geoparque da Quarta Colônia (RS): uma abordagem para o desenvolvimento sustentável*. Martiele Wilhelm, Raquel Weiss, Olavo Avalone Neto, Luis Guilherme Aita Pippi. **DRd - Desenvolvimento Regional em debate**. [Paper](https://doi.org/10.24302/drd.v16.5777)
 ## 2025
 - *Eficácia das ferramentas de realidade virtual na avaliação de espaços interiores residenciais*. **Maurício Martini**. Universidade Federal de Santa Maria, Centro de Ciências Sociais e Humanas, Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, RS, 2025. [Dissertação](https://repositorio.ufsm.br/handle/1/37390)
