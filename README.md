@@ -14,6 +14,8 @@ A list of my publications and work I have advised.
 - *Método da Avaliação por Legendas - MAL*. Olavo Avalone Neto. **12 Projetar - Reexistir no Mundo Contemporâneo**. [Conference Paper](http://dx.doi.org/10.29327/9786527219705.1330654).
 - *Panorama Regional sobre o Uso de Ferramentas Digitais em Escritórios de Arquitetura*. Maurício Martini, João Gabriel Minussi, Olavo Avalone Neto. **12 Projetar - Reexistir no Mundo Contemporâneo**. [Conference Paper](http://dx.doi.org/10.29327/9786527219705.1138517).
 
+- *CURA: Centro Integrado de Saúde: proposta arquitetônica humanizada para Caçapava do Sul - RS*. **Bianca da Cunha Garcez**. Universidade Federal de Santa Maria - Campus Cachoeira do Sul, Curso de Arquitetura e Urbanismo, RS, 2025. [Trabalho de Conclusão de Curso.]()
+
 - *A Experiência da Criação da Caça ao Tesouro Histórico de Cachoeira do Sul*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 - *Canto do Encanto: do croqui à maquete na exploração da composição espacial paisagística*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
 - *Costura Urbana: integração de usos e desenvolvimento da zona esportiva na praça José Bonifácio*. 40ª Jornada Acadêmica Integrada - JAI. [Resumo](https://portal.ufsm.br/jai/trabalho/anais.html)
